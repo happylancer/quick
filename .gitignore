@@ -1,3 +1,5 @@
 .updatebot-repos
 bin
 obj
+/.vs/
+/aspnetapp.csproj.user
